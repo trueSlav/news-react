@@ -1,0 +1,15 @@
+.wrapper {
+	position: relative;
+	display: flex;
+	padding-top: 80%;
+	height: auto;
+	background-color: #b5b8bace;
+}
+.image {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
